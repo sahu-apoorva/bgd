@@ -7,7 +7,7 @@ spec:
   generators:
   - pullRequest:
       github:
-        owner: christianh814
+        owner: sahu-apoorva
         repo: bgd
         labels:
         - preview
